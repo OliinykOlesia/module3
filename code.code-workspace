@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"name": "Resume",
+		"path": "C:/Users/User/Desktop/Resume"
+	},
+	{
+		"name": "Test Code",
+		"path": "../Test Code"
+	},
+	{
+		"name": "Module 2",
+		"path": "../Module 2"
+	},
+	{
+		"name": "goit-markup-hw-01",
+		"path": "../../goit-markup-hw-01"
+	},
+	{
+		"path": "../../goit-markup-hw-02"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Module 3"
+  }
+}
